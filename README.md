@@ -1,6 +1,7 @@
 # suitcase.xdi
 
-This is a suitcase subpackage for writing a particular file format.
+This is a suitcase subpackage for writing
+[XAS Data Interchange (XDI)](https://github.com/XraySpectroscopy/XAS-Data-Interchange).
 
 ## Installation
 
