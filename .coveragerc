@@ -1,0 +1,4 @@
+[run]
+branch = true
+include = suitcase/xdi/*
+omit = suitcase/xdi/_version.py
